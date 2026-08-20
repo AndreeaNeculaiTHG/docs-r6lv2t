@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cu78q9.swanbarandgrill.co.uk/sitemap.xml
